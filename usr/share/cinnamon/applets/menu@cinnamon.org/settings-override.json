@@ -1,0 +1,28 @@
+{
+    "menu-custom" : {
+        "default" : true,
+        "override-props" : true
+    },
+    "menu-label" : {
+        "default" : "",
+        "override-props" : true
+    },
+    "menu-icon" : {
+        "icon_categories" : [{
+            "name" : "Mauna Linux",
+            "icons" : [
+                "mauna-logo",
+                    "mauna-logo-scalable",
+                    "mauna-logo-symbolic",                    
+                    "cinnamon-symbolic",
+                    "emblem-favorite-symbolic",
+                    "user-bookmarks-symbolic",
+                    "start-here-symbolic"
+            ]
+        }],
+        "default_category" : "Mauna Linux",
+        "default" : "mauna-logo",
+        "default_icon" : "mauna-logo",
+        "override-props" : true
+    }
+}

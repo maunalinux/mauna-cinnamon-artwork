@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=MaunaLinux
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Mauna Linux</name>
+    <filename>/usr/share/backgrounds/mauna/mauna-oficial.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Mauna Linux</name>
+    <filename>/usr/share/backgrounds/mauna/mauna1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Mauna Linux</name>
+    <filename>/usr/share/backgrounds/mauna/mauna2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper>
+
+</wallpapers>
