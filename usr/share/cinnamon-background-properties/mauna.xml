@@ -3,7 +3,7 @@
 <wallpapers>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
+    <name>Wallpaper Oficial</name>
     <filename>/usr/share/backgrounds/mauna/mauna-oficial.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -13,8 +13,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/mauna1.png</filename>
+    <name>Visão do Morro da Praia do Cedro</name>
+    <filename>/usr/share/backgrounds/mauna/Visao_do_morro_da_Praia_do_Cedro_-_Ubatuba_-_Sao_Paulo.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -23,8 +23,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/mauna2.png</filename>
+    <name>Mercado Ver o Peso</name>
+    <filename>/usr/share/backgrounds/mauna/meracdo-ver-o-peso-belem-para.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -33,8 +33,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/adeole_yosemite.jpg</filename>
+    <name>Recife</name>
+    <filename>/usr/share/backgrounds/mauna/recife2_pe_brazil.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -43,8 +43,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/aruban_pitsunda.jpg</filename>
+    <name>Vulcões no Havaí</name>
+    <filename>/usr/share/backgrounds/mauna/Lava_Lake_Kilauea_Crater_Hawaii_Volcanoes_National_Park.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -53,8 +53,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/eeselioglu_istanbul.jpg</filename>
+    <name>Caracol Park</name>
+    <filename>/usr/share/backgrounds/mauna/Caracol_Park_Canela_Waterfall_Forest.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -63,8 +63,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/jowens_kauai.jpg</filename>
+    <name>Cristo Redentor</name>
+    <filename>/usr/share/backgrounds/mauna/Cristo-Redentor-Por-do-sol.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -73,8 +73,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/juergen_arabia.jpg</filename>
+    <name>Praia de Iracema Fortaleza</name>
+    <filename>/usr/share/backgrounds/mauna/Iracema_Beach_Fortaleza_Ceara_Brazil.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -83,8 +83,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/luizpavao_Ubatuba.jpg</filename>
+    <name>São Paulo</name>
+    <filename>/usr/share/backgrounds/mauna/sao_paulo_bridge-Cities_HD_Wallpaper.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -93,8 +93,8 @@
 </wallpaper>  
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/matador-rocks.jpg</filename>
+    <name>Blumenau</name>
+    <filename>/usr/share/backgrounds/mauna/blumenau_sc_brazil.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -103,8 +103,8 @@
 </wallpaper>
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/mauna_hawaii.jpg</filename>
+    <name>Caverna da Costa Benagil Portugal</name>
+    <filename>/usr/share/backgrounds/mauna/Coast_Benagil_Cave_Algarve_Portugal.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -113,8 +113,8 @@
 </wallpaper>  
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/skunze_mallorca.jpg</filename>
+    <name>Baía dos Porcos Fernando de Noronha</name>
+    <filename>/usr/share/backgrounds/mauna/Coast_View_Bay_of_Pigs_Fernando_Noronha.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -123,8 +123,58 @@
 </wallpaper> 
 
 <wallpaper deleted="false">
-    <name>Mauna Linux</name>
-    <filename>/usr/share/backgrounds/mauna/wjusten_machu_picchu.jpg</filename>
+    <name>Recife</name>
+    <filename>/usr/share/backgrounds/mauna/recife3_pe_brazil.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper> 
+
+<wallpaper deleted="false">
+    <name>Cataratas do Iguaçu</name>
+    <filename>/usr/share/backgrounds/mauna/Iguazu_Falls_Parana_State_Brazil.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper> 
+
+<wallpaper deleted="false">
+    <name>Espanha</name>
+    <filename>/usr/share/backgrounds/mauna/Rolands_Breach_Ordesa_y_Monte_Perdido_National_Park_Spain.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper> 
+
+<wallpaper deleted="false">
+    <name>Vila Picinguaba Ubatuba</name>
+    <filename>/usr/share/backgrounds/mauna/vila-de-picinguaba.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper> 
+
+<wallpaper deleted="false">
+    <name>Estação da Luz São Paulo</name>
+    <filename>/usr/share/backgrounds/mauna/Morning_Sunshine_Light_Station_Sao_Paulo_Brazil.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Mauna</artist>
+</wallpaper> 
+
+<wallpaper deleted="false">
+    <name>Recife</name>
+    <filename>/usr/share/backgrounds/mauna/recife2_pe_brazil.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
